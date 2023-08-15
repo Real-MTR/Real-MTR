@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Did you know that I started coding when I was 10 years old?**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me @ Discord MTR#3404 or E-Mail: contact@mtrdevelopment.xyz</h3>
 <p align="left">
 </p>
 
