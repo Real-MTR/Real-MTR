@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtr" alt="mtr" /></a> </p>
 
-- 🔭 I’m currently working on [VoltageMC Club](voltagemc.club)
+- 🔭 I’m currently working on [VoltageMC Club](discord.voltagemc.club)
 
 - 🌱 I’m currently learning **Java, C# and Python**
 
