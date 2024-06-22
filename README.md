@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtr" alt="mtr" /></a> </p>
 
-- 🔭 I’m currently working @ [Crystal Development](https://discord.gg/GjapQkgvA2)
+- 🔭 I’m currently working @ [Atom Development](https://discord.gg/wn2bF5aKaF)
 
 - 🌱 I’m currently learning **Java, C# and Python**
 
