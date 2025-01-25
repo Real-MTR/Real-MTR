@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtr" alt="mtr" /></a> </p>
 
-- 🔭 I’m currently working @ [Atom Development](https://discord.gg/wn2bF5aKaF)
-
 - 🌱 I’m currently learning **Java, C# and Python**
 
-- 💬 If you want to hire me as a dev **Add me in discord MTR#3404**
-
-- ⚡ Fun fact **Did you know that I started coding when I was 10 years old?**
+- 💬 If you want to hire me as a dev **Add me in discord real_mtr**
 
 <h3 align="left">Contact with me @ Discord MTR#3404 or E-Mail: contact@mtrdevelopment.xyz</h3>
 <p align="left">
